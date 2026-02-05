@@ -1,16 +1,5 @@
 # Pratham Kamble
-**AI Product Engineer | Production Systems & Data Infrastructure**
-
-I specialize in bridging the gap between **AI research and enterprise production**. My work focuses on building auditable, GDPR-compliant data pipelines and reliable RAG systems for regulated environments.
-
----
-
-### 🎯 Engineering Focus
-
-* 🛡️ **Governance & Compliance:** Designing architectures that prioritize PII protection, GDPR adherence, and audit trails.
-* 🏗️ **Reliability over Hype:** Moving beyond "it works on my machine" to implementing robust error handling and logging.
-* 📉 **Business Impact:** deploying systems that solve specific business problems (Latency, Cost, Accuracy) rather than chasing novel architectures.
-
+**AI Product Engineer**
 ---
 
 ### 🛠️ Technical Stack
