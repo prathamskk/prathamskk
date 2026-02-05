@@ -1,5 +1,5 @@
 # Pratham Kamble
-**AI Product Engineer**
+
 ---
 
 ### 🛠️ Technical Stack
